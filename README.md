@@ -10,3 +10,7 @@ The text file would have this structure:
 - e number of edges incident to vertex 3, the vertex that e1 is incident to, cost of e1, the vertex that e2 is incident to, cost of e2, ..., the vertex that ej is incident to, cost of ej
 - ...
 - e number of edges incident to vertex n, the vertex that e1 is incident to, cost of e1, the vertex that e2 is incident to, cost of e2, ..., the vertex that ej is incident to, cost of ej
+
+
+For example, test1.txt would correspond to this graph:
+<img width="1331" height="946" alt="image" src="https://github.com/user-attachments/assets/3ba667ac-96ad-42e5-a282-e1c1bc5cb567" />
