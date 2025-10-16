@@ -5,8 +5,8 @@ This project will be in C for manual memory allocation and deallocation. The goa
 
 The text file would have this structure:
 - n vertices
-- number of edges incident to vertex 1, the names of the endpoints (adjacent vertex), and the cost of each edge
-- number of edges incident to vertex 2, the names of the endpoints (adjacent vertex), and the cost of each edge
-- number of edges incident to vertex 3, the names of the endpoints (adjacent vertex), and the cost of each edge
+- e number of edges incident to vertex 1, the vertex that e1 is incident to, cost of e1, the vertex that e2 is incident to, cost of e2, ..., the vertex that ej is incident to, cost of ej
+- e number of edges incident to vertex 2, the vertex that e1 is incident to, cost of e1, the vertex that e2 is incident to, cost of e2, ..., the vertex that ej is incident to, cost of ej
+- e number of edges incident to vertex 3, the vertex that e1 is incident to, cost of e1, the vertex that e2 is incident to, cost of e2, ..., the vertex that ej is incident to, cost of ej
 - ...
-- number of edges incident to vertex n, the names of the endpoints (adjacent vertex), and the cost of each edge
+- e number of edges incident to vertex n, the vertex that e1 is incident to, cost of e1, the vertex that e2 is incident to, cost of e2, ..., the vertex that ej is incident to, cost of ej
